@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with software development;
 
 - :earth_americas: I'm from São Paulo, SP - Brazil
-- :punch: I love martial arts, specially Karate!
+- :punch: I love martial arts, especially Karate!
 - :video_game: I love to play video games with my kids!
 
 
