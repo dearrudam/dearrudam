@@ -36,7 +36,7 @@ Here are some ideas to get you started:
       src="https://github-readme-stats.vercel.app/api?username=dearrudam&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&hide_title=true&hide_border=true" />
 </a>
 
-## Social media :mailbox_with_no_mail:
+## Social Media
 
 [![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fmaxdearruda)](https://twitter.com/maxdearruda)
 [![Instagram URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Fmaximillianarruda)](https://www.instagram.com/maximillianarruda/)
