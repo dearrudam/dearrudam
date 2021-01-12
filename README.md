@@ -22,21 +22,24 @@ Here are some ideas to get you started:
 - :punch: I love martial arts, especially Karate!
 - :video_game: I love to play video games with my kids!
 
+## Most Used Languages
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dearrudam&layout=compact&langs_count=20&hide_title=true&hide_border=true" />    
+</a>
+
+## Github Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=dearrudam&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&hide_title=true&hide_border=true" />
+</a>
+
+
 ## Social media :mailbox_with_no_mail:
+
 [![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fmaxdearruda)](https://twitter.com/maxdearruda)
 [![Instagram URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Fmaximillianarruda)](https://www.instagram.com/maximillianarruda/)
 [![Linkedin URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmaxarruda%2F)](https://www.linkedin.com/in/maxarruda/)
 [![DEV URL](https://img.shields.io/twitter/url?color=lightgray&label=follow&logo=dev.to&logoColor=%0A0A0A&style=flat-square&url=https%3A%2F%2Fdev.to%2Fdearrudam)](https://dev.to/dearrudam)
-
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dearrudam&layout=compact&langs_count=20"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=dearrudam&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
-</p>
