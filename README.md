@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dearrudam&layout=compact"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dearrudam&layout=compact&langs_count=20"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
