@@ -35,6 +35,12 @@ Here are some ideas to get you started:
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=dearrudam&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&hide_title=true&hide_border=true" />
 </a>
+<a href="#">
+    <img
+      height="165"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=dearrudam&hide_border=true" />
+</a>
+
 
 ## Social Media
 
