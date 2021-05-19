@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - :computer: I'm currently working as a Software Engineer at [OpenText](https://www.opentext.com/)
 - :sunglasses: I'm always looking for helping developers with the best programming practices;
 - 🌱 I’m always learning to improve my skills and to be a better person that I can!
-- :earth_americas: I'm from São Paulo, SP - Brazil
 - :punch: I love martial arts, especially Karate! 
 - :video_game: I love to play video games with my kids!
 - :couple_with_heart: a luck man married with a beautiful wife!
+- :earth_americas: I'm from São Paulo, SP - Brazil
 
 
 ## Most Used Languages
