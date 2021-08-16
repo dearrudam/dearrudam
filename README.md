@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=dearrudam&repo=dearrudam&countColorcountColor)
+
 # Hi, I'm Maximillian Arruda <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 - :computer: I'm currently working as a Software Engineer at [OpenText](https://www.opentext.com/)
