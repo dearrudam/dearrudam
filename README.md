@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Maximillian Arruda <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-- :computer: I'm currently working as a Software Engineer
+- :computer: I'm currently working as a Developer Advocate at [Zup Innovation](https://www.zup.com.br/);
 - :sunglasses: I'm always looking for helping developers with the best programming practices;
 - 🌱 I’m always learning to improve my skills and to be a better person that I can!
 - :punch: I love martial arts, especially Karate! 
