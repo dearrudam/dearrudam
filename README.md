@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 - :computer: I'm currently working as a Developer Advocate at [Zup Innovation](https://www.zup.com.br/);
 - :sunglasses: I'm always looking for helping developers with the best programming practices;
-- 🌱 I’m always learning to improve my skills and to be a better person that I can!
+- 🌱 I'm always learning to improve my skills and to be the better person that I can be!
 - :punch: I love martial arts, especially Karate! 
 - :video_game: I love to play video games with my kids!
-- :couple_with_heart: a luck man married with a beautiful wife!
+- :couple_with_heart: a lucky man married to a beautiful wife!
 - :earth_americas: I'm from São Paulo, SP - Brazil
 
 
