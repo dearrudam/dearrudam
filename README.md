@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=dearrudam%2Fdearrudam&countColor=%23263759)](https://visitorbadge.io/status?path=dearrudam%2Fdearrudam)
-
-
+[![Visitors](https://api.visitorbadge.io/api/daily?path=dearrudam%2Fdearrudam&label=GitHub%20Daily%20Visitors&labelColor=%23697689&countColor=%23dce775&style=flat-square&labelStyle=none)](https://visitorbadge.io/status?path=dearrudam%2Fdearrudam)
 # Hi, I'm Maximillian Arruda <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 - :computer: I'm currently working as a Developer Advocate at [StackSpot](https://stackspot.com/);
@@ -35,7 +33,7 @@ Here are some ideas to get you started:
 
 ## Social Media
 <div style="margin: 10px 10px 10px 10px">
-    
+
 [![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fmaxdearruda)](https://twitter.com/maxdearruda)
 [![Instagram URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Fmaximillianarruda)](https://www.instagram.com/maximillianarruda/)
 [![Linkedin URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmaxarruda%2F)](https://www.linkedin.com/in/maxarruda/)
