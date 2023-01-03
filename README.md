@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Visitors](https://api.visitorbadge.io/api/daily?path=dearrudam%2Fdearrudam&label=GitHub%20Daily%20Visitors&labelColor=%23697689&countColor=%23dce775&style=flat-square&labelStyle=none)](https://visitorbadge.io/status?path=dearrudam%2Fdearrudam)
+[![Visitors](https://api.visitorbadge.io/api/combined?path=dearrudam%2Fdearrudam&label=Visitors%20Daily%2FTotal&labelColor=%23697689&countColor=%23dce775)](https://visitorbadge.io/status?path=dearrudam%2Fdearrudam)
 # Hi, I'm Maximillian Arruda <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 - :computer: I'm currently working as a Developer Advocate at [StackSpot](https://stackspot.com/);
