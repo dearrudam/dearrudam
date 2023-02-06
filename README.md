@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 
 As JUG leader at SouJava, I use to help SouJava JUG with initiatives like:
 
-- 1st and 2nd editions of SouJava Lightning Talks ([https://youtube.com/playlist?list=PLOQgznExm9isHHHak9KIp4dQyw5j__aO9](https://youtube.com/playlist?list=PLOQgznExm9isHHHak9KIp4dQyw5j__aO9));
-- SouJava na Campus ([https://youtube.com/playlist?list=PLOQgznExm9isQwaSPODFX6E7ybhWDRCfK](https://youtube.com/playlist?list=PLOQgznExm9isQwaSPODFX6E7ybhWDRCfK));
+- 1st and 2nd editions of [SouJava Lightning Talks](https://youtube.com/playlist?list=PLOQgznExm9isHHHak9KIp4dQyw5j__aO9);
+- [SouJava na Campus](https://youtube.com/playlist?list=PLOQgznExm9isQwaSPODFX6E7ybhWDRCfK);
 
-- Collab Time at SouJava’s Discord Server ([https://discord.gg/eAARnH7yrG](https://discord.gg/eAARnH7yrG))
+- Collab Time at [SouJava’s Discord Server](https://discord.gg/eAARnH7yrG));
 
-- SouJava's Meetup Coordination ([https://www.meetup.com/soujava/](https://www.meetup.com/soujava/))
+- [SouJava's Meetup](https://www.meetup.com/soujava/) Coordination;
 
-- SouJava Talks at SouJava's Youtube Channel ([https://youtube.com/playlist?list=PLOQgznExm9iuBu-RBT7v0ph8xIUy1MNxK](https://youtube.com/playlist?list=PLOQgznExm9iuBu-RBT7v0ph8xIUy1MNxK));
+- [SouJava Talks](https://youtube.com/playlist?list=PLOQgznExm9iuBu-RBT7v0ph8xIUy1MNxK) at [SouJava's Youtube Channel](https://youtube.com/soujava);
 
 
 Im my [Youtube channel](https://www.youtube.com/@MaximillianArruda) and [TwichTV channel](https://www.twitch.tv/maxdearruda)) channels, I'm always looking forward to participating and sharing relevant content about software development and career content that would help the community members to improve their skills and o course, their careers too. I'm open to speaking or participating in any initiatives that could help developers with such subjects.
@@ -44,7 +44,6 @@ Im my [Youtube channel](https://www.youtube.com/@MaximillianArruda) and [TwichTV
 Thank you for keeping up! :thumbsup:
 
 If you need anything, please, feel free to drop me a message to my social media ;)
-
 
 ## Social Media
 <div style="margin: 10px 10px 10px 10px">
