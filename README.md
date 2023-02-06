@@ -16,24 +16,34 @@ Here are some ideas to get you started:
 # Hi, I'm Maximillian Arruda <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 - :computer: I'm currently working as a Developer Advocate at [StackSpot](https://stackspot.com/);
+- :coffee: JUG leader at [SouJava](https://github.com/soujava) (The Java Users Society), one of the world's largest Java User Groups Community;
+- <img src="https://github.com/dearrudam/dearrudam/raw/master/jakartaee.png" width="20px" /> Jakarta EE Ambassador;
+- <img src="https://github.com/dearrudam/dearrudam/raw/master/tdc.png" width="20px" /> Speaker/coordinator at The Developers Conference;
+- <img src="https://github.com/dearrudam/dearrudam/raw/master/cloudconferenceday.png" width="20px" /> Cloud Conference Day Java Track Ambassador;
 - :sunglasses: I'm always looking for helping developers with the best programming practices;
 - 🌱 I'm always learning to improve my skills and to be the better person that I can be!
-- :coffee: JUG leader at [SouJava](https://github.com/soujava) (The Java Users Society), one of the world's largest Java User Groups Community;
-- <img src="https://github.com/dearrudam/dearrudam/raw/master/jakartaee.png" width="30px" /> Jakarta EE Ambassador;
 - :punch: I love martial arts, especially Karate! 
 - :video_game: I love to play video games with my kids!
 - :couple_with_heart: a lucky man married to a beautiful wife!
 - :earth_americas: I'm from São Paulo, SP - Brazil
 
+As JUG leader at SouJava, I use to help SouJava JUG with initiatives like:
+
+- 1st and 2nd editions of SouJava Lightning Talks ([https://youtube.com/playlist?list=PLOQgznExm9isHHHak9KIp4dQyw5j__aO9](https://youtube.com/playlist?list=PLOQgznExm9isHHHak9KIp4dQyw5j__aO9));
+- SouJava na Campus ([https://youtube.com/playlist?list=PLOQgznExm9isQwaSPODFX6E7ybhWDRCfK](https://youtube.com/playlist?list=PLOQgznExm9isQwaSPODFX6E7ybhWDRCfK));
+
+- Collab Time at SouJava’s Discord Server ([https://discord.gg/eAARnH7yrG](https://discord.gg/eAARnH7yrG))
+
+- SouJava's Meetup Coordination ([https://www.meetup.com/soujava/](https://www.meetup.com/soujava/))
+
+- SouJava Talks at SouJava's Youtube Channel ([https://youtube.com/playlist?list=PLOQgznExm9iuBu-RBT7v0ph8xIUy1MNxK](https://youtube.com/playlist?list=PLOQgznExm9iuBu-RBT7v0ph8xIUy1MNxK));
 
 
+Im my [Youtube channel](https://www.youtube.com/@MaximillianArruda) and [TwichTV channel](https://www.twitch.tv/maxdearruda)) channels, I'm always looking forward to participating and sharing relevant content about software development and career content that would help the community members to improve their skills and o course, their careers too. I'm open to speaking or participating in any initiatives that could help developers with such subjects.
 
+Thank you for keeping up! :thumbsup:
 
-## Most Used Languages
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dearrudam&layout=compact&langs_count=20&hide_title=true&hide_border=true" />    
-</a> 
+If you need anything, please, feel free to drop me a message to my social media ;)
 
 
 ## Social Media
@@ -45,6 +55,13 @@ Here are some ideas to get you started:
 [![DEV URL](https://img.shields.io/twitter/url?color=lightgray&label=follow&logo=dev.to&logoColor=%0A0A0A&style=flat-square&url=https%3A%2F%2Fdev.to%2Fdearrudam)](https://dev.to/dearrudam)
     
 </div>
+
+## Most Used Languages
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dearrudam&layout=compact&langs_count=20&hide_title=true&hide_border=true" />    
+</a> 
+
 
 ## Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
