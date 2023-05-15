@@ -32,7 +32,7 @@ As JUG leader at SouJava, I use to help SouJava JUG with initiatives like:
 - 1st and 2nd editions of [SouJava Lightning Talks](https://youtube.com/playlist?list=PLOQgznExm9isHHHak9KIp4dQyw5j__aO9);
 - [SouJava na Campus](https://youtube.com/playlist?list=PLOQgznExm9isQwaSPODFX6E7ybhWDRCfK);
 
-- Collab Time at [SouJava’s Discord Server](https://discord.gg/eAARnH7yrG));
+- Collab Time at [SouJava’s Discord Server](https://discord.gg/eAARnH7yrG);
 
 - [SouJava's Meetup](https://www.meetup.com/soujava/) Coordination;
 
