@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - :computer: I'm currently working as a Developer Advocate/Specialist at [Zup Innovation](https://zup.com.br/);
 - :coffee: JUG leader at [SouJava](https://github.com/soujava) (The Java Users Society), one of the world's largest Java User Groups Community;
 - <img src="https://github.com/dearrudam/dearrudam/raw/master/jakartaee.png" width="20px" /> Jakarta EE Contributor and Ambassador;
+- <img src="https://avatars.githubusercontent.com/u/56974?s=200&v=4" width="20px" /> [Eclipse Foundation Committer](https://accounts.eclipse.org/users/maxdearruda): <img src="https://avatars.githubusercontent.com/u/19764683?s=200&v=4" width="20px" /> [Eclipse JNoSQL](http://www.jnosql.org/) project
 - <img src="https://github.com/dearrudam/dearrudam/raw/master/tdc.png" width="20px" /> Speaker/coordinator at The Developers Conference;
 - <img src="https://github.com/dearrudam/dearrudam/raw/master/cloudconferenceday.png" width="20px" /> Cloud Conference Day Java Track Ambassador;
 - :sunglasses: I'm always looking for helping developers with the best programming practices;
