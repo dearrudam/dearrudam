@@ -15,14 +15,20 @@ Here are some ideas to get you started:
 [![Visitors](https://api.visitorbadge.io/api/combined?path=dearrudam%2Fdearrudam&label=Visitors%20Daily%2FTotal&labelColor=%23697689&countColor=%23dce775)](https://visitorbadge.io/status?path=dearrudam%2Fdearrudam)
 # Hi, I'm Maximillian Arruda <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-- :computer: I'm currently working as a Developer Advocate/Specialist;
+- :computer: I'm currently working as a Backend Software Engineer;
+- 🥑 I'm a Developer Advocate in my free time;
 - :coffee: JUG leader at [SouJava](https://github.com/soujava) (The Java Users Society), one of the world's largest Java User Groups Community;
 - <img src="https://github.com/dearrudam/dearrudam/raw/master/jakartaee.png" width="20px" /> Jakarta EE Contributor and Ambassador;
 - <img src="https://avatars.githubusercontent.com/u/56974?s=200&v=4" width="20px" /> [Eclipse Foundation Committer](https://accounts.eclipse.org/users/maxdearruda): <img src="https://avatars.githubusercontent.com/u/19764683?s=200&v=4" width="20px" /> [Eclipse JNoSQL](http://www.jnosql.org/) project
+- International Speaker:
+    - Developer Career Day 2023;
+    - Jakarta Tech Talks;    
+    - GeeCON 2023 Prague;
+    - EclipseCON 2023 Germany;    
 - <img src="https://github.com/dearrudam/dearrudam/raw/master/tdc.png" width="20px" /> Speaker/coordinator at The Developers Conference;
 - <img src="https://github.com/dearrudam/dearrudam/raw/master/cloudconferenceday.png" width="20px" /> Cloud Conference Day Java Track Ambassador;
-- :sunglasses: I'm always looking for helping developers with the best programming practices;
-- 🌱 I'm always learning to improve my skills and to be the better person that I can be!
+- :sunglasses: I'm always looking to help developers with the best programming practices;
+- 🌱 I'm always learning to improve my skills and be the best person I can be!
 - :punch: I love martial arts, especially Karate! 
 - :video_game: I love to play video games with my kids!
 - :couple_with_heart: a lucky man married to a beautiful wife!
