@@ -62,6 +62,14 @@ If you need anything, please, feel free to drop me a message to my social media 
     
 </div>
 
+## GitHub Profile Trophy
+<div style="margin: 10px 10px 10px 10px">
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=dearrudam)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+
 ## Most Used Languages
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
