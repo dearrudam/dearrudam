@@ -24,7 +24,9 @@ Here are some ideas to get you started:
     - Developer Career Day 2023;
     - Jakarta Tech Talks;    
     - GeeCON 2023 Prague;
-    - EclipseCON 2023 Germany;    
+    - EclipseCON 2023 Germany;
+    - Oracle DevLive SP 2024;
+    - GeeCON 2024 Kraków;   
 - <img src="https://github.com/dearrudam/dearrudam/raw/master/tdc.png" width="20px" /> Speaker/coordinator at The Developers Conference;
 - <img src="https://github.com/dearrudam/dearrudam/raw/master/cloudconferenceday.png" width="20px" /> Cloud Conference Day Java Track Ambassador;
 - :sunglasses: I'm always looking to help developers with the best programming practices;
