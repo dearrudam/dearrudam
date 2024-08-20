@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - :computer: I'm currently working as a Backend Software Engineer;
 - 🥑 I'm a Developer Advocate in my free time;
 - :coffee: JUG leader at [SouJava](https://github.com/soujava) (The Java Users Society), one of the world's largest Java User Groups Community;
-- <img src="https://github.com/dearrudam/dearrudam/raw/master/jakartaee.png" width="20px" /> Jakarta EE Contributor and Ambassador;
+- <img src="https://github.com/dearrudam/dearrudam/raw/master/jakartaambassador.png" width="20px" /> [Jakarta EE Contributor Ambassador](https://jakartaee-ambassadors.io/who-we-are/);
+- <img src="https://github.com/dearrudam/dearrudam/raw/master/jakartaee.png" width="20px" /> [Jakarta NoSQL Committer](https://projects.eclipse.org/projects/ee4j.nosql/CM/maxdearruda);
 - <img src="https://avatars.githubusercontent.com/u/56974?s=200&v=4" width="20px" /> [Eclipse Foundation Committer](https://accounts.eclipse.org/users/maxdearruda): <img src="https://avatars.githubusercontent.com/u/19764683?s=200&v=4" width="20px" /> [Eclipse JNoSQL](http://www.jnosql.org/) project
 - International Speaker:
     - Developer Career Day 2023;
