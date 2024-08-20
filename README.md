@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - <img src="https://github.com/dearrudam/dearrudam/raw/master/jakartaambassador.png" width="20px" /> [Jakarta EE Contributor Ambassador](https://jakartaee-ambassadors.io/who-we-are/);
 - <img src="https://github.com/dearrudam/dearrudam/raw/master/jakartaee.png" width="20px" /> [Jakarta NoSQL Committer](https://projects.eclipse.org/projects/ee4j.nosql/CM/maxdearruda);
 - <img src="https://avatars.githubusercontent.com/u/56974?s=200&v=4" width="20px" /> [Eclipse Foundation Committer](https://accounts.eclipse.org/users/maxdearruda): <img src="https://avatars.githubusercontent.com/u/19764683?s=200&v=4" width="20px" /> [Eclipse JNoSQL](http://www.jnosql.org/) project
+- <img src="https://github.com/dearrudam/dearrudam/raw/master/ace-associate.png" width="20px" /> [Oracle ACE Associate](https://ace.oracle.com/apex/ace/profile/maxdearruda);
 - International Speaker:
     - Developer Career Day 2023;
     - Jakarta Tech Talks;    
